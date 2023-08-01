@@ -5,8 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Humongous.Healthcare", "Humongous.Healthcare.csproj", "{D11CC17B-A232-4B52-878E-76F5976DD09E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Humongous.Healthcare.Web", "..\Humongous.Healthcare.Web\Humongous.Healthcare.Web.csproj", "{7FEAEB17-E21E-4AD0-B045-93CB20EB10C8}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
